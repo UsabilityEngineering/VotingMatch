@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+During the election season, there can be a lot of information to digest for voters. Voting Match makes it easy for voters to digest that information, and show candidates that are relevant to the voter's political stance.
 
 ## Methods
 
