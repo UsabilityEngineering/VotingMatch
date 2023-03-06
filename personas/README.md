@@ -1,7 +1,7 @@
 # Personas
 
 ## Sophia
-(![Sophia Photo](https://user-images.githubusercontent.com/98926315/223019675-b8de5e47-c4f9-4b52-9807-0d3c8515e09b.jpeg))
+![Sophia Photo](https://user-images.githubusercontent.com/98926315/223019675-b8de5e47-c4f9-4b52-9807-0d3c8515e09b.jpeg)
 (18 year old woman)
 (Chico, CA)
 (B.A. in Psychology)
@@ -35,8 +35,8 @@ Have a quicker way in finding candidates
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Caitlin!
-[Caitlin Photo](https://user-images.githubusercontent.com/98926315/223019828-1dca52a7-e45c-4017-a758-b72f9044c8e9.jpeg)
+## Caitlin
+![Caitlin Photo](https://user-images.githubusercontent.com/98926315/223019828-1dca52a7-e45c-4017-a758-b72f9044c8e9.jpeg)
 (28 year old woman)
 (Chico, CA)
 (Writer)
