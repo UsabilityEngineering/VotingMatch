@@ -6,7 +6,14 @@ During the election season, there can be a lot of information to digest for vote
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+o	Competitive Analysis – refers to the process of assessing and contrasting one's own product with that provided by competitors. Use these insights to spot potential weaknesses in one's own product or service as well as to spot possibilities to set it apart from those of competitors.
+
+o	Heuristic Evaluation - to find possible problems with a product's usability. It entails assessing a competitor product against a list of accepted heuristics or usability guidelines in order to spot any problems that might detract from the user experience.
+
+o	Personas and Scenarios - Personas are made-up characters that substitute in for multiple user types of a product. The purpose is to understand and empathize with various user groups so the product specifically address their demands and objectives. Scenarios are narratives that show how a consumer might utilize a product in a certain situation or context. The purpose to understand how users could use a product in the real world.
+
+o	Sketches –Low-fidelity drawings or diagrams of design concepts that let UX designers to explore and refine concepts without expending a lot of time or money.
+
 
 ## Findings
 
