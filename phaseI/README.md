@@ -6,26 +6,26 @@ During the election season, there can be a lot of information to digest for vote
 
 ## Methods
 
-* Competitive Analysis – refers to the process of assessing and contrasting one's own product with that provided by competitors. Use these insights to spot potential weaknesses in one's own product or service as well as to spot possibilities to set it apart from those of competitors. We used a grid which the columns included strengths, weaknesses, quality level, price/cost, and platform. Google search helped us find our competitors.
+* **Competitive Analysis** – refers to the process of assessing and contrasting one's own product with that provided by competitors. Use these insights to spot potential weaknesses in one's own product or service as well as to spot possibilities to set it apart from those of competitors. We used a grid which the columns included strengths, weaknesses, quality level, price/cost, and platform. Google search helped us find our competitors.
 
-* Heuristic Evaluation - to find possible problems with a product's usability. It entails assessing a competitor product against a list of accepted heuristics or usability guidelines in order to spot any problems that might detract from the user experience. The  compitetor we used is an app called InfoVote.
+* **Heuristic Evaluation** - to find possible problems with a product's usability. It entails assessing a competitor product against a list of accepted heuristics or usability guidelines in order to spot any problems that might detract from the user experience. The compitetor we used is an app called InfoVote.
 
-* Personas and Scenarios - Personas are made-up characters that substitute in for multiple user types of a product. The purpose is to understand and empathize with various user groups so the product specifically address their demands and objectives. Scenarios are narratives that show how a consumer might utilize a product in a certain situation or context. The purpose to understand how users could use a product in the real world.
+* **Personas and Scenarios** - Personas are made-up characters that substitute in for multiple user types of a product. The purpose is to understand and empathize with various user groups so the product specifically address their demands and objectives. Scenarios are narratives that show how a consumer might utilize a product in a certain situation or context. The purpose to understand how users could use a product in the real world.
 
-* Sketches –Low-fidelity drawings or diagrams of design concepts that let UX designers to explore and refine concepts without expending a lot of time or money.
+* **Sketches** –Low-fidelity drawings or diagrams of design concepts that let UX designers to explore and refine concepts without expending a lot of time or money.
 
 
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 
-* Competitive Analysis – we found our competitors are free to use, majority of them are on the web, and have a user friendly experience. However, they lack information on political candidates and propositions. 
+* **Competitive Analysis** – we found our competitors are free to use, majority of them are on the web, and have a user friendly experience. However, they lack information on political candidates and propositions. 
 
-* Heuristic Evaluation -
+* **Heuristic Evaluation** -
 
-* Personas and Scenarios -
+* **Personas and Scenarios** -
 
-* Sketches –
+* **Sketches** –
 
 ## Conclusions
 
