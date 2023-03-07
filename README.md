@@ -21,6 +21,9 @@ Voting Match is a website that allows users to find candidates that are related 
 
 **Executive Summary**
 
+Elections tend to have a lot of information to digest, so Voting Match simplifies the information and curates it to the user. Helps voters to find representatives who actually best represent their views.
+
+
 * Created Comptetive Analysis, Personas and Scenarios, Heuristic Evaluation
 * Started in creating sketches of UI
 * To understand our competitors strengths and weakness
