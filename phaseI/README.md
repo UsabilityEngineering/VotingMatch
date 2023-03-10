@@ -12,7 +12,7 @@ During the election season, there can be a lot of information to digest for vote
 
 * **Personas and Scenarios** - Personas are made-up characters that substitute in for multiple user types of a product. The purpose is to understand and empathize with various user groups so the product specifically address their demands and objectives. Scenarios are narratives that show how a consumer might utilize a product in a certain situation or context. The purpose to understand how users could use a product in the real world.
 
-* **Sketches** –Low-fidelity drawings or diagrams of design concepts that let UX designers to explore and refine concepts without expending a lot of time or money.
+* **Sketches** –Low-fidelity drawings or diagrams of design concepts that let UX designers to explore and refine concepts without expending a lot of time or money. The purpose of this is to find the best streamline approach on how to do Voting Match.
 
 
 ## Findings
