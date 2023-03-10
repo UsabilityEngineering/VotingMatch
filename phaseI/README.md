@@ -12,7 +12,7 @@ During the election season, there can be a lot of information to digest for vote
 
 * **Personas and Scenarios** - Personas are conceptual characters that substitute for multiple user types of a product. The goal is to understand and empathize with various user groups so the product can specifically address their needs and objectives. Scenarios are narratives that show how a consumer might utilize a product in a certain situation or context, and their purpose is to understand how a product can be used in the real world.
 
-* **Sketches** – Sketches are low-fidelity drawings of design concepts, that let UX designers explore and refine ideas without expending a lot of time or money. Sketches have been an important step in our process, as they have helped us to find the best streamline approach for bringing Voting Match to life.
+* **Sketches** – Sketches are low-fidelity drawings that let UX designers explore and refine ideas without expending a lot of time or money. Sketches have been an important step in our process, as they have helped us to find the best streamline approach for bringing Voting Match to life.
 
 
 ## Findings
