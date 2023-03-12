@@ -24,11 +24,11 @@ Voting Match is a website that allows users to find candidates that are related 
 Elections tend to have a lot of information to digest, so Voting Match simplifies the information, curates it to the user, and helps voters to find representatives who actually best represent their views.
 
 * **Competitive Analysis** -  To understand our competitors' strengths and weaknesses, and to find an edge over our competitors. Our findings pointed that our competitors don't have any information on candidates and lack user personalization.
-* 
+ 
 * **Heuristic Evaluation** - To find competitor weaknesses as a focus point to improve our website. Our findings showed that we need to improve on error prevention, user control, and freedom, which will create a better user experiece for our site. 
-* 
+
 * **Personas and Scenarios** - To have an idea of our potential demographics for our website. We found that Voting Match needs to be curated in a way that first time voters and non-tech savvy people can use it.
-* 
+ 
 * **Sketches** -  Started creating sketches to have an idea of the user experience flow, and realized that a streamlined experience will be best for Voting Match.
 
 [Full phase I report](phaseI/)
