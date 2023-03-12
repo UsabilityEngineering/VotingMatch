@@ -2,7 +2,7 @@
 
 ## Introduction
 
-During the election season, there can be a lot of information to digest for voters. Voting Match makes it easy for voters to digest that information, and shows candidates that are relevant to the voter's political stance.
+During the election season, there can be a lot of overwhelming information for voters to process. Voting Match makes it easy for voters to digest that information, and allows voters to easily discover candidates who are relevant to their political views.
 
 ## Methods
 
@@ -17,8 +17,6 @@ During the election season, there can be a lot of information to digest for vote
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
-
 * **Competitive Analysis** – When researching similar products and services, we found that the majority of our competitors are free to use, web-based services that have user-friendly experiences. However, most of the ones we found seemed to lack the candidate-specific information we were looking for in our competition. Of the competitors we evaluated, we concluded that InfoVote, Vote411, and BallotReady were our strongest competition due to their content, quality UX design, and and ease of site navigation. We also noticed that Easy Voter Guide was the only one to include detailed information on their site about state propositions and voting guidelines.
 
 * **Heuristic Evaluation** - To conduct our Hueristic Evaluation, we focused on a competing service called InfoVote (an educational mobile app that helps voters stay informed). During our evaluation, we noticed that the app's strongest points are Hueristics #2 (match between system and real world) and #6 (recognition rather than recall). InfoVote is designed well, uses easily understood language, has good navigation, and elements on pages are usually labeled clearly. However, the app freezes often, is tedious to use, and error recovery is poorly designed. Observing InfoVote's interface in this light helped us to recognize what we should pay attention to when designing Voting Match, and understand what we should include and avoid in our design.
@@ -29,8 +27,10 @@ During the election season, there can be a lot of information to digest for vote
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+After conducting all of our initial research steps, we have concluded that a web-based interface is the best course of action for Voting Match. We initially planned Voting Match to be a mobile application, but after discussing as a group, we changed it to be a website. This allows us to work with a larger interface, and reach users who do not own mobile phones or understand apps.
+
+We also concluded that our service will focus mainly on providing users with general election information and candidate recommendations, rather than providing state, local, or community-based information. 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Due to time limitations, we may not be able to develop all of our initial ideas for Voting Match (such as including information pertaining to local and state elections, a page for users to explore recommendations and election information, or a curated home feed).
