@@ -11,9 +11,7 @@
 Sophia is enjoying her first few weeks at Chico State as a freshman. She has little knowledge of political candidates in her area, but understands the political spectrum of the left and right. A first time voter that is eager to vote in the next election.
 
 **Goals:**
-To know who are the presidential candidates running in general election
-To know their stances on political issues
-To use that information to elect these candidates 
+To know who are the presidential candidates running in general election, to know their stances on political issues, and to use that information to elect these candidates 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,9 +26,7 @@ To use that information to elect these candidates
 David has been living in Chico his whole life and is dissatisfied with the current elected officials that are running the country for the past four years. He’s a Republican with traditional values. Has voted in many local, state, and federal elections.
 
 **Goals:**
-To find candidates that are related to his personal political views
-To compare those candidates between each other to find the best fit
-Have a quicker way in finding candidates
+To find candidates that are related to his personal political views, to compare those candidates between each other to find the best fit, and to have a quicker way in finding candidates
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,9 +42,7 @@ Have a quicker way in finding candidates
 Caitlin moved to Chico last year from the East Coast, so this is her first election in California. She doesn’t know anything about politics in California, and wants to learn more about the candidates she’s interested in, but can’t find any solid information about them online. Caitlin is a progressive voter who feels strongly about advocating for what she feels is right, and wants to make sure that she will be voting for the candidates who best represent her values.
 
 **Goals:**
-To familiarize herself with CA political candidates 
-To find details about nominated representatives in a straightforward and simplified way
-To feel confident about her vote
+To familiarize herself with CA political candidates, to find details about nominated representatives in a straightforward and simplified way, and to feel confident about her vote
 
 
 # Scenarios
