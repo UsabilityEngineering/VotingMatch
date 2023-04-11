@@ -1,6 +1,6 @@
 # Personas
 
-## Sophia
+## Sophia Voting Identity
 ![Sophia Photo](https://user-images.githubusercontent.com/98926315/223019675-b8de5e47-c4f9-4b52-9807-0d3c8515e09b.jpeg)
 (18 year old woman)
 (Chico, CA)
@@ -8,14 +8,14 @@
 (Single)
 (Middle-Income)
 
-Sophia is enjoying her first few weeks at Chico State as a freshman. She has little knowledge of political candidates in her area, but understands the political spectrum of the left and right. A first time voter that is eager to vote in the next election.
+Sophia is a first-time voter meaning that she hasn’t established a preferred political stance on the political spectrum. She would like to know if her political stances align with the left or the right. This will help her vote on candidates that have political stances like her in the future. And she would like to stay updated on political issues that are important to her.
 
 **Goals:**
 To know who are the presidential candidates running in general election, to know their stances on political issues, and to use that information to elect these candidates 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## David
+## David Voting Identity
 ![David Photo](https://user-images.githubusercontent.com/98926315/223019752-3be34906-fc98-4efd-b994-0ecc568a14f2.jpeg)
 (35 year old man) 
 (Chico, CA)
@@ -31,7 +31,7 @@ To find candidates that are related to his personal political views, to compare 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Caitlin
+## Caitlin Voting Identity
 ![Caitlin Photo](https://user-images.githubusercontent.com/98926315/223019828-1dca52a7-e45c-4017-a758-b72f9044c8e9.jpeg)
 (28 year old woman)
 (Chico, CA)
@@ -39,7 +39,7 @@ To find candidates that are related to his personal political views, to compare 
 (In a relationship)
 (Low-income)
 
-Caitlin moved to Chico last year from the East Coast, so this is her first election in California. She doesn’t know anything about politics in California, and wants to learn more about the candidates she’s interested in, but can’t find any solid information about them online. Caitlin is a progressive voter who feels strongly about advocating for what she feels is right, and wants to make sure that she will be voting for the candidates who best represent her values.
+Caitlin moved to Chico last year from the United Kingdom, so this is her first election in the USA. She doesn’t know anything about American politicians, and wants to learn more about the candidates she’s interested in, but can’t find any solid information about them online. Caitlin is a progressive voter who feels strongly about advocating for what she feels is right, and wants to make sure that she will be voting for the candidates who best represent her values.
 
 **Goals:**
 To familiarize herself with CA political candidates, to find details about nominated representatives in a straightforward and simplified way, and to feel confident about her vote
