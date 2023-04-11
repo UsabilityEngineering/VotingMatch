@@ -36,10 +36,13 @@ Elections tend to have a lot of information to digest, so Voting Match simplifie
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* **Wireframes**: For this phase, we focused primarily on designing interactive wireframes that allowed users to navigate through the Voting Match interface. This is enhanced by a dynamic feature that enables users to click on buttons that go to the next page.We learned that our interface flow is fluid, and easily can be navigated through clear labeled buttons. 
+
+* **Walkthroughs**: After finalizing our interactive wireframes, we sent them to peers for evaluation, and guided users to run through different scenarios to understand how our site works, so that we could make decisions about ways we could improve the user experience.The user who gave us feedback didn’t have a wireframe with workable buttons at the time, but could still figure out how to navigate through the website.
+
+* **Future Plan**:In user testing, we plan to add a color scheme, font choices, logo design and illustrative graphics based on user feedback. We believe that our initial design is sufficient, but needs minor changes to have a better user experience.
+
+
 
 [Full phase II report](phaseII/)
 
@@ -47,9 +50,6 @@ Elections tend to have a lot of information to digest, so Voting Match simplifie
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+
 
 [Full phase III report](phaseIII/)
