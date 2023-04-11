@@ -13,7 +13,7 @@ Voting Match is a website that allows users to find candidates that are related 
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](#) - Coming soon (phase II)!
+* [Wireframes](https://xd.adobe.com/view/f721c966-3073-43db-ae25-1f7fbb953087-a272/)
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
