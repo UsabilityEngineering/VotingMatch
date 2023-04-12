@@ -6,15 +6,21 @@ To plan and visualize the layout and structure of website, and help designers an
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+**Walkthrough** - This research method is a step-by-step demonstration of how a user would interact with the website. The UX team gave a wireframe which was done in Adobe XD to a user. For each action, the user would describe the action or explain what they do not want to do at the point. In addition, describe if they did the right thing to make progress toward the goal. The user would send all that information back to the UX team.
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+**Walkthrough**
+* User had no trouble of creating their account on website
+* User can find information on candidates after taking quiz
+* User can add candidates to favorite list
+* User can easily update user profile and political preference
+* User cannot prioritize issues and delete candidates from favorite list
+
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The need for buttons to prioritize issues and remove candidates was highlighted by user feedback. Another design recommendation will be not having user always have to login to use the website meaning the first page will be the homepage instead of the login page. Finally, future work should prioritize incorporating visual design elements, such as color schemes and graphics.
 
 ## Caveats
 
