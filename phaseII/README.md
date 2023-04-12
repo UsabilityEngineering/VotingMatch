@@ -6,7 +6,7 @@ To plan and visualize the layout and structure of website, and help designers an
 
 ## Methods
 
-**Walkthrough** - This research method is a step-by-step demonstration of how a user would interact with the website. The UX team gave a wireframe which was done in Adobe XD to a user. For each action, the user would describe the action or explain what they do not want to do at the point. In addition, describe if they did the right thing to make progress toward the goal. The user would send all that information back to the UX team.
+**Walkthrough** - The UX team gave a wireframe which was done in Adobe XD to a user. For each action, the user would describe the action or explain what they do not want to do at the point. In addition, describe if they did the right thing to make progress toward the goal. The user would send all that information back to the UX team.
 
 ## Findings
 
@@ -20,8 +20,8 @@ To plan and visualize the layout and structure of website, and help designers an
 
 ## Conclusions
 
-The need for buttons to prioritize issues and remove candidates was highlighted by user feedback. Another design recommendation will be not having user always have to login to use the website meaning the first page will be the homepage instead of the login page. Finally, future work should prioritize incorporating visual design elements, such as color schemes and graphics.
+The need for buttons to prioritize issues and remove candidates was highlighted by user feedback. Another design recommendation will be not having user always have to login to use the website meaning that the first page will be the homepage instead of the login page. Finally, future work should prioritize incorporating visual design elements, such as color schemes and graphics.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+One limitation of our study is the small sample size resulting from only having one user feedback. Additionally, during the walkthrough, the buttons in the wireframe were not interactive, which is an important consideration in evaluating the feedback. The UX team did not receive feedback from a user who interacted with the wireframes with functional buttons, which is something we should aim to address in future studies.
