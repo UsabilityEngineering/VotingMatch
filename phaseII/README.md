@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+To plan and visualize the layout and structure of website, and help designers and stakeholders understand how users will interact with the website and identify potential usability issues.
 
 ## Methods
 
