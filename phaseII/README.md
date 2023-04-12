@@ -24,4 +24,4 @@ The need for buttons to prioritize issues and remove candidates was highlighted 
 
 ## Caveats
 
-One limitation of our study is the small sample size resulting from only having one user feedback. Additionally, during the walkthrough, the buttons in the wireframe were not interactive, which is an important consideration in evaluating the feedback. The UX team did not receive feedback from a user who interacted with the wireframes with functional buttons, which is something we should aim to address in future studies.
+One limitation of our study is the small sample size resulting from only having one user feedback. Additionally, during the walkthrough, the buttons in the wireframe were not interactive, which is an important consideration in evaluating the feedback. The UX team did not receive feedback from a user who interacted with the wireframe with functional buttons, which is something we should aim to address in future studies.
