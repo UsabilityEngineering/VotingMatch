@@ -9,7 +9,7 @@
 ## Sign-Up Page
 ![Sign-Up Page](https://user-images.githubusercontent.com/98926315/231657302-be69ea70-b390-477d-9c4e-7a99eb79cf84.png)
 
-## Voting Match Page - User can take Voting Match from here and view their results
+## Voting Match Page - User can take Voting Match from here
 ![Match](https://user-images.githubusercontent.com/98926315/231657382-e66de469-8e8e-4dab-adc2-380e5b658024.png)
 
 ## Here are examples of Voting Match Questions
@@ -17,9 +17,11 @@
 ![Quiz Question Example Page – 2](https://user-images.githubusercontent.com/98926315/231657510-98e71fc4-7d9c-47ad-b840-10475b687eea.png)
 ![Quiz Question Example Page – 3](https://user-images.githubusercontent.com/98926315/231657512-ac29eb65-b075-4277-b950-4379fa5e72e0.png)
 
-## Voting Match Results - where user can view candidate information and favorite them
+## Voting Match Results - where user can view summarize information on candidates and favorite them
 ![Survey Results](https://user-images.githubusercontent.com/98926315/231657555-556b1bb3-361d-4df2-bed2-5f2d3d6702e0.png)
 
-## Candidate Info Page - user can view candidate information in more detail if they clicked their name
+## Candidate Info Page - user can view in-depth information on candidates if they clicked their name
 ![Candidate Info Page](https://user-images.githubusercontent.com/98926315/231657620-131ee21e-21b5-46b7-91f3-aff94f68ec6f.png)
 
+## Ballot Page
+![“What’s On My Ballot” Page](https://user-images.githubusercontent.com/98926315/231659911-1198a2f2-9f83-460c-978f-24bd0f988bbf.png)
