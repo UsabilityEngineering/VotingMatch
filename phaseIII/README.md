@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Created a prototype for user testing that will identify usability issues, ensure user satisfication, and improve product effectiveness based on UX expert feedback.
 
 ## Methods
 
