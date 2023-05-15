@@ -47,7 +47,9 @@ Elections tend to have a lot of information to digest, so Voting Match simplifie
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
-* The user test we did focused on creating an account, completing the voting match survey, and finding 2024 ballot.
-* 
+* We conducted a user test that focused on creating an account, completing the voting match survey, and finding the 2024 ballot.
+* Our findings indicated that the design for creating an account on the website was fluid and user-friendly.
+* However, we need to improve the design for completing the voting match survey, as some UX experts were unable to locate it easily. 
+* Overall, all tasks were completed successfully, which indicates that our prototype was a success.
 
 [Full phase III report](phaseIII/)
