@@ -47,7 +47,7 @@ Elections tend to have a lot of information to digest, so Voting Match simplifie
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
-
-
+* The user test we did focused on creating an account, completing the voting match survey, and finding 2024 ballot.
+* 
 
 [Full phase III report](phaseIII/)
