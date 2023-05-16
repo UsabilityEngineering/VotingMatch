@@ -1,7 +1,7 @@
 
 # Voting Match
 
-Voting Match is a website that allows users to find candidates that are related to the user's personal political views.
+Voting Match is a website that allows users to find candidates that are related to their personal political views.
 
 ## UX Team Members
 
