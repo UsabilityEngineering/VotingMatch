@@ -13,7 +13,7 @@ Voting Match is a website that allows users to find candidates that are related 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](https://xd.adobe.com/view/4c4d1c0e-ffb9-4696-ac29-5aa7a106d4df-191e/)
+* [Prototype](prototype/Prototype.pdf)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -45,7 +45,7 @@ Elections tend to have a lot of information to digest, so Voting Match simplifie
 
 # Phase III: Prototypes and User Testing
 
-[Prototype](prototype/Prototype.pdf)
+[Prototype](https://xd.adobe.com/view/4c4d1c0e-ffb9-4696-ac29-5aa7a106d4df-191e/)
 
 **Executive Summary**
 * **User Test**: We conducted several user tests to gain insight into ways we might be able to improve Voting Match. These tests focused on introducing users to our prototype, and observing how they navigated actions such as creating an account, completing the Voting Match survey, and finding (and interacting with) the virtual 2024 ballot.
