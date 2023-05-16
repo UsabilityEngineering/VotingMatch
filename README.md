@@ -5,8 +5,8 @@ Voting Match is a website that allows users to find candidates that are related 
 
 ## UX Team Members
 
-* **[Behnam Ardakanian](https://usabilityengineering.github.io/ux-portfolio-bardakanian/)** - Contributions: Competitive Analysis, Personas and Scenarios, Heuristic Evaluation
-* **[Emily McConnell](https://usabilityengineering.github.io/ux-portfolio-egmcconnell/)** - Contributions: Competitive Analysis, Personas and Scenarios, Heuristic Evaluation, Sketches, Wireframes
+* **[Behnam Ardakanian](https://usabilityengineering.github.io/ux-portfolio-bardakanian/)** - Contributions: Competitive Analysis, Personas and Scenarios, Heuristic Evaluation, Prototype (copy for candidate bios, auto-fill effects on sign-up flows)
+* **[Emily McConnell](https://usabilityengineering.github.io/ux-portfolio-egmcconnell/)** - Contributions: Competitive Analysis, Personas and Scenarios, Heuristic Evaluation, Sketches, Wireframes, Prototype (design, copy, interaction effects)
 
 # User-Centered Design Artifacts
  
