@@ -9,8 +9,7 @@ Voting Match is a website that allows users to find candidates that are related 
 * **[Emily McConnell](https://usabilityengineering.github.io/ux-portfolio-egmcconnell/)** - Contributions: Competitive Analysis, Personas and Scenarios, Heuristic Evaluation, Sketches, Wireframes, Prototype (design, copy, interaction effects), User Testing
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
+
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
