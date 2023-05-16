@@ -18,12 +18,17 @@ After the UX experts completed the tasks, we conducted a debrief and asked for t
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+* UX Experet had no trouble creating their account
+* UX Experet  was able to successfully find information on candidates after taking Voting Match Survey
+* UX Experet was able to add candidates to favorites
+* UX Experet was able to find the 2024 ballot and view candidate information
+* UX Experet pointed out that it was hard to find Voting Match Survey
+* UX Experet pointed out that there should be local and state candidates
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Our findings have led us to believe that we should make it easier to find the survey by either changing the label tab on the homepage or adding it to the homepage. We also suggest adding local and state candidates to the final version of the product. Hyperlinks to their official websites on candidate pages would be useful. Additionally, we recommend clarifying how to view the full profile on the ballot page. Perhaps sticking to one survey instead of two would also be beneficial. Overall, our design and layout was positively received.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Adobe XD has certain limitations that prevent certain functions from working correctly on the prototype. For example, rearranging political issues on a page was static instead of being dynamically placed.
