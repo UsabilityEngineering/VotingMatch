@@ -46,10 +46,11 @@ Elections tend to have a lot of information to digest, so Voting Match simplifie
 
 # Phase III: Prototypes and User Testing
 
+[Voting Match Prototype](https://xd.adobe.com/view/4c4d1c0e-ffb9-4696-ac29-5aa7a106d4df-191e/)
+
 **Executive Summary**
-* We conducted a user test that focused on creating an account, completing the voting match survey, and finding the 2024 ballot.
-* Our findings indicated that the design for creating an account on the website was fluid and user-friendly.
-* However, we need to improve the design for completing the voting match survey, as some UX experts were unable to locate it easily. 
-* Overall, all tasks were completed successfully, which indicates that our prototype was a success.
+* **User Test**: We conducted several user tests to gain insight into ways we might be able to improve Voting Match. These tests focused on introducing users to our prototype, and observing how they navigated actions such as creating an account, completing the Voting Match survey, and finding (and interacting with) the virtual 2024 ballot.
+ 
+* **New Learnings & Recommendations**: Our findings indicated that the design for creating an account on the website was fluid and user-friendly. However, we learned that we need to improve the design for completing the voting match survey, as some users were unable to locate it easily. Overall, all tasks were completed successfully, which indicates that our prototype was a success.
 
 [Full phase III report](phaseIII/)
