@@ -41,4 +41,4 @@ Based on user feedback, it is clear that we should make it easier to find the Vo
 
 ## Caveats
 
-Adobe XD has certain limitations that prevent certain functions from working correctly on the prototype. For example, rearranging political issues on a page was static instead of being dynamically placed.
+Adobe XD has certain limitations that prevent certain functions from working correctly on the prototype. For example, rearranging political issues on a page was static instead of being dynamically placed. Not enough participants to gain a better consensus on the prototype. 
