@@ -16,10 +16,10 @@ We also observed how well users could navigate through the site without getting 
 
 Since there was only one version of the prototype, we used a within-subject design for all participants, with fixed tasks. We utilized the think-aloud method to understand different user perspectives. Before beginning the tasks, we gave our users a friendly introduction and asked background questions. The tasks were:
 
-    1. Complete the steps to create an account.
-    2. Complete the Voting Match survey.
-    3. "Favorite" candidates and view them in the Profile "Favorites" tab.
-    4. View information on candidates by viewing the ballot.
+1. Complete the steps to create an account.
+2. Complete the Voting Match survey.
+3. "Favorite" candidates and view them in the Profile "Favorites" tab.
+4. View information on candidates by viewing the ballot.
 
 After our users completed the tasks, we conducted a debrief and asked for their final feedback and overall impression of Voting Match.
 
